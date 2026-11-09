@@ -30,6 +30,15 @@ omarchy theme bg next              # 切換兩張桌布
 
 ![Banner wallpaper on an empty desktop](screenshots/desktop-empty-banner.png)
 
+## Video
+
+帶片頭、片尾與配樂的完整版（1920x1028、約 34 秒），可直接下載分享：
+
+- [taipei-current-theme.mp4](videos/taipei-current-theme.mp4)：配樂《Deliberate Thought》
+- [taipei-current-theme-alt-newer-wave.mp4](videos/taipei-current-theme-alt-newer-wave.mp4)：配樂《Newer Wave》
+
+兩首配樂皆為 Kevin MacLeod（incompetech.com）作品，CC BY 4.0，轉載時保留片尾的署名。
+
 ## Wallpapers
 
 兩張 2560x1440 桌布都不是重畫的，是直接取用印刷完稿的像素：
