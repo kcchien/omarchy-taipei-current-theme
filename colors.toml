@@ -1,0 +1,35 @@
+# Taipei Current（洋流：台北順起來）
+# 色值取自 doctor design《洋流》A4 印刷完稿（直式與橫式）的像素統計：
+# 朱橘 #EA551E、紙白 #FCFBF7、墨黑 #0F1212。
+# 其餘語意色沿用簡報的黃色強調、青色連結、洋紅標籤、天空藍與金色底線。
+mode = "dark"
+
+accent = "#ea551e"
+selection = "#3d2419"
+muted = "#6e6761"
+
+background = "#161818"
+dark_background = "#0f1212"
+darker_background = "#0a0c0c"
+lighter_background = "#242626"
+
+foreground = "#fcfbf7"
+dark_foreground = "#7e7973"
+light_foreground = "#d2cec6"
+bright_foreground = "#ffffff"
+
+red = "#d7423a"
+yellow = "#f0c930"
+orange = "#ea551e"
+green = "#6fae7f"
+cyan = "#2fb8c6"
+blue = "#5494e0"
+magenta = "#e05ad6"
+brown = "#8c4a2c"
+
+bright_red = "#e8655c"
+bright_yellow = "#f6d85a"
+bright_green = "#8cc49a"
+bright_cyan = "#5fcdd8"
+bright_blue = "#7cadea"
+bright_magenta = "#ea84e2"
