@@ -50,13 +50,19 @@ omarchy theme bg next              # 切換兩張桌布
 ### 超寬螢幕（32:9）
 
 Omarchy 以「保持比例、裁切填滿」的方式鋪桌布，16:9 的圖在 5120x1440 螢幕上會被裁掉上下、洋流兩字被切到。
-超寬螢幕請改用 `3-poster-ultrawide.webp`（5120x1440，兩側橘底以同一套印刷紋理延伸）：
+超寬螢幕請改用 5120x1440 的兩張：
 
 ```bash
 omarchy theme bg set ~/.config/omarchy/themes/taipei-current/backgrounds/3-poster-ultrawide.webp
+omarchy theme bg set ~/.config/omarchy/themes/taipei-current/backgrounds/4-banner-ultrawide.webp
 ```
 
-橫幅版沒有 32:9 版本：原稿的洋流兩字左右都出血裁到紙邊，往兩側延伸會露出被截斷的筆畫。
+- **3-poster-ultrawide**：海報構圖，兩側橘底以同一套印刷紋理延伸。
+- **4-banner-ultrawide**：橫幅構圖重排。橫式原稿的洋流兩字左右出血裁到紙邊，無法直接拉寬，所以改從直式原稿取出完整的兩個字改為左右並排，白帶、橘底、毛邊與日期條全部取自兩張原稿沒有筆畫的區段拼成。
+
+| | |
+|---|---|
+| ![poster ultrawide](backgrounds/3-poster-ultrawide.webp) | ![banner ultrawide](backgrounds/4-banner-ultrawide.webp) |
 
 ## Palette
 
