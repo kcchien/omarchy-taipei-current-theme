@@ -3,6 +3,8 @@
 一套 [Omarchy](https://omarchy.org) 主題。朱橘、紙白、墨黑三色，色值與桌布都取自 doctor design 的《洋流》A4 印刷完稿，
 把印刷品的粗獷版畫質感原封不動搬到 Hyprland 桌面上。
 
+![Taipei Current](screenshots/title-card.png)
+
 ![Taipei Current demo](screenshots/demo.gif)
 
 ## Install
@@ -20,7 +22,7 @@ omarchy theme bg next              # 切換兩張桌布
 
 ## Screenshots
 
-海報桌布配 btop、Neovim、Files 與 `omarchy dev theme preview` 的調色盤：
+以下畫面均取自上面的示範影片。海報桌布配 btop、Neovim、Files 與 `omarchy dev theme preview` 的調色盤：
 
 ![Desktop with the poster wallpaper](screenshots/desktop-poster.png)
 
@@ -74,5 +76,8 @@ preview.mp4        # 主題選單的動態預覽
 
 ## Credits
 
+![Credits](screenshots/credit-card.png)
+
 - 視覺：《洋流》A4 完稿，doctor design。本主題是以該視覺製作的桌面配色，圖像著作權屬原作者。
+- 配樂：《台北順起來 Future Soon》，2026 沈伯洋官方競選歌曲，音樂版權屬原權利人。
 - 製作：Taipei Current 主題的色票、桌布裁切與預覽由 kcchien 製作。
