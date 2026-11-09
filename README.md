@@ -32,12 +32,9 @@ omarchy theme bg next              # 切換兩張桌布
 
 ## Video
 
-帶片頭、片尾與配樂的完整版（1920x1028、約 34 秒），可直接下載分享：
+帶片頭、片尾與配樂的完整版（1920x1028、約 34 秒）：[videos/taipei-current-theme.mp4](videos/taipei-current-theme.mp4)
 
-- [taipei-current-theme.mp4](videos/taipei-current-theme.mp4)：配樂《Deliberate Thought》
-- [taipei-current-theme-alt-newer-wave.mp4](videos/taipei-current-theme-alt-newer-wave.mp4)：配樂《Newer Wave》
-
-兩首配樂皆為 Kevin MacLeod（incompetech.com）作品，CC BY 4.0，轉載時保留片尾的署名。
+配樂是 2026 沈伯洋官方競選歌曲《台北順起來 Future Soon》（[puma.taipei/songs](https://puma.taipei/songs)），音樂版權屬原權利人。
 
 ## Wallpapers
 
